@@ -1,90 +1,120 @@
 [submodule "automatic/openxcom"]
 	path = automatic/openxcom
 	url = git@github.com:n3rd4i/openxcom
+	branch = master
 [submodule "automatic/eduke32"]
 	path = automatic/eduke32
 	url = git@github.com:n3rd4i/eduke32
+	branch = master
 [submodule "automatic/doomseeker"]
 	path = automatic/doomseeker
 	url = git@github.com:n3rd4i/doomseeker
+	branch = master
 [submodule "automatic/trilium-notes"]
 	path = automatic/trilium-notes
 	url = git@github.com:n3rd4i/trilium-notes.git
+	branch = master
 [submodule "automatic/slade"]
 	path = automatic/slade
 	url = git@github.com:n3rd4i/slade.git
+	branch = master
 [submodule "automatic/nrf-connect"]
 	path = automatic/nrf-connect
 	url = git@github.com:n3rd4i/nrf-connect.git
+	branch = master
 [submodule "automatic/gzdoom"]
 	path = automatic/gzdoom
 	url = git@github.com:n3rd4i/gzdoom.git
+	branch = master
 [submodule "automatic/formatfactory"]
 	path = automatic/formatfactory
 	url = git@github.com:n3rd4i/formatfactory.git
+	branch = master
 [submodule "manual/gcc-arm-embedded"]
 	path = manual/gcc-arm-embedded
 	url = git@github.com:n3rd4i/gcc-arm-embedded.git
+	branch = master
 [submodule "manual/ti-cgt-arm"]
 	path = manual/ti-cgt-arm
 	url = git@github.com:n3rd4i/ti-cgt-arm.git
+	branch = master
 [submodule "manual/freedoom"]
 	path = manual/freedoom
 	url = git@github.com:n3rd4i/freedoom.git
+	branch = master
 [submodule "manual/mental-omega"]
 	path = manual/mental-omega
 	url = git@github.com:n3rd4i/mental-omega.git
+	branch = master
 [submodule "manual/yabe"]
 	path = manual/yabe
 	url = git@github.com:n3rd4i/yabe.git
+	branch = master
 [submodule "manual/uniflash"]
 	path = manual/uniflash
 	url = git@github.com:n3rd4i/uniflash.git
+	branch = master
 [submodule "manual/photofiltre7-en"]
 	path = manual/photofiltre7-en
 	url = git@github.com:n3rd4i/photofiltre7-en.git
+	branch = master
 [submodule "manual/scrcpy"]
 	path = manual/scrcpy
 	url = git@github.com:n3rd4i/scrcpy.git
+	branch = master
 [submodule "manual/doom-sigil"]
 	path = manual/doom-sigil
 	url = git@github.com:n3rd4i/doom-sigil.git
+	branch = master
 [submodule "manual/pasteintofile"]
 	path = manual/pasteintofile
 	url = git@github.com:n3rd4i/pasteintofile.git
+	branch = master
 [submodule "manual/imageusb"]
 	path = manual/imageusb
 	url = git@github.com:n3rd4i/imageusb.git
+	branch = master
 [submodule "manual/resetwueng"]
 	path = manual/resetwueng
 	url = git@github.com:n3rd4i/resetwueng.git
+	branch = master
 [submodule "manual/vitrite"]
 	path = manual/vitrite
 	url = git@github.com:n3rd4i/vitrite.git
+	branch = master
 [submodule "manual/moddb.extension"]
 	path = manual/moddb.extension
 	url = git@github.com:n3rd4i/moddb.extension.git
+	branch = master
 [submodule "manual/doom1-maps-sigil"]
 	path = manual/doom1-maps-sigil
 	url = git@github.com:n3rd4i/doom1-maps-sigil.git
+	branch = master
 [submodule "manual/teslacamviewer"]
 	path = manual/teslacamviewer
 	url = git@github.com:n3rd4i/teslacamviewer.git
+	branch = master
 [submodule "manual/zephyr-gnuarmemb"]
 	path = manual/zephyr-gnuarmemb
 	url = git@github.com:n3rd4i/zephyr-gnuarmemb.git
+	branch = master
 [submodule "manual/d4t-addons-keysncorpses"]
 	path = manual/d4t-addons-keysncorpses
 	url = git@github.com:n3rd4i/d4t-addons-keysncorpses.git
+	branch = master
 [submodule "manual/qc-doom-edition"]
 	path = manual/qc-doom-edition
 	url = git@github.com:n3rd4i/qc-doom-edition.git
+	branch = master
 [submodule "manual/doom4-death-foretold"]
 	path = manual/doom4-death-foretold
 	url = git@github.com:n3rd4i/doom4-death-foretold.git
+	branch = master
 [submodule "manual/gamesnostalgia.extension"]
 	path = manual/gamesnostalgia.extension
 	url = git@github.com:n3rd4i/gamesnostalgia.extension.git
+	branch = master
 [submodule "manual/usbip"]
 	path = manual/usbip
 	url = git@github.com:n3rd4i/usbip.git
+	branch = master

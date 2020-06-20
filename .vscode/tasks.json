@@ -1,0 +1,20 @@
+{
+	// See https://go.microsoft.com/fwlink/?LinkId=733558
+	// for the documentation about the tasks.json format
+	"version": "2.0.0",
+	"problemMatcher": [],
+	"tasks": [{
+			"label": "submodule init",
+			"type": "shell",
+			"command": "git submodule update --init"
+		},
+		{
+			"label": "update-all",
+			"type": "shell",
+			"command": "./update_all.ps1",
+			"options": { "shell": { "executable": "powershell.exe" } },
+			"group": { "kind": "build", "isDefault": true },
+			"dependsOn": ["submodule init"]
+		}
+	]
+}

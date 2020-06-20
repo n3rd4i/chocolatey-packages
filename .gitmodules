@@ -1,0 +1,24 @@
+[submodule "automatic/openxcom"]
+	path = automatic/openxcom
+	url = git@github.com:n3rd4i/openxcom
+[submodule "automatic/eduke32"]
+	path = automatic/eduke32
+	url = git@github.com:n3rd4i/eduke32
+[submodule "automatic/doomseeker"]
+	path = automatic/doomseeker
+	url = git@github.com:n3rd4i/doomseeker
+[submodule "automatic/trilium-notes"]
+	path = automatic/trilium-notes
+	url = git@github.com:n3rd4i/trilium-notes.git
+[submodule "automatic/slade"]
+	path = automatic/slade
+	url = git@github.com:n3rd4i/slade.git
+[submodule "automatic/nrf-connect"]
+	path = automatic/nrf-connect
+	url = git@github.com:n3rd4i/nrf-connect.git
+[submodule "automatic/gzdoom"]
+	path = automatic/gzdoom
+	url = git@github.com:n3rd4i/gzdoom.git
+[submodule "automatic/formatfactory"]
+	path = automatic/formatfactory
+	url = git@github.com:n3rd4i/formatfactory.git

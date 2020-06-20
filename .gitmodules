@@ -22,3 +22,69 @@
 [submodule "automatic/formatfactory"]
 	path = automatic/formatfactory
 	url = git@github.com:n3rd4i/formatfactory.git
+[submodule "manual/gcc-arm-embedded"]
+	path = manual/gcc-arm-embedded
+	url = git@github.com:n3rd4i/gcc-arm-embedded.git
+[submodule "manual/ti-cgt-arm"]
+	path = manual/ti-cgt-arm
+	url = git@github.com:n3rd4i/ti-cgt-arm.git
+[submodule "manual/freedoom"]
+	path = manual/freedoom
+	url = git@github.com:n3rd4i/freedoom.git
+[submodule "manual/mental-omega"]
+	path = manual/mental-omega
+	url = git@github.com:n3rd4i/mental-omega.git
+[submodule "manual/yabe"]
+	path = manual/yabe
+	url = git@github.com:n3rd4i/yabe.git
+[submodule "manual/uniflash"]
+	path = manual/uniflash
+	url = git@github.com:n3rd4i/uniflash.git
+[submodule "manual/photofiltre7-en"]
+	path = manual/photofiltre7-en
+	url = git@github.com:n3rd4i/photofiltre7-en.git
+[submodule "manual/scrcpy"]
+	path = manual/scrcpy
+	url = git@github.com:n3rd4i/scrcpy.git
+[submodule "manual/doom-sigil"]
+	path = manual/doom-sigil
+	url = git@github.com:n3rd4i/doom-sigil.git
+[submodule "manual/pasteintofile"]
+	path = manual/pasteintofile
+	url = git@github.com:n3rd4i/pasteintofile.git
+[submodule "manual/imageusb"]
+	path = manual/imageusb
+	url = git@github.com:n3rd4i/imageusb.git
+[submodule "manual/resetwueng"]
+	path = manual/resetwueng
+	url = git@github.com:n3rd4i/resetwueng.git
+[submodule "manual/vitrite"]
+	path = manual/vitrite
+	url = git@github.com:n3rd4i/vitrite.git
+[submodule "manual/moddb.extension"]
+	path = manual/moddb.extension
+	url = git@github.com:n3rd4i/moddb.extension.git
+[submodule "manual/doom1-maps-sigil"]
+	path = manual/doom1-maps-sigil
+	url = git@github.com:n3rd4i/doom1-maps-sigil.git
+[submodule "manual/teslacamviewer"]
+	path = manual/teslacamviewer
+	url = git@github.com:n3rd4i/teslacamviewer.git
+[submodule "manual/zephyr-gnuarmemb"]
+	path = manual/zephyr-gnuarmemb
+	url = git@github.com:n3rd4i/zephyr-gnuarmemb.git
+[submodule "manual/d4t-addons-keysncorpses"]
+	path = manual/d4t-addons-keysncorpses
+	url = git@github.com:n3rd4i/d4t-addons-keysncorpses.git
+[submodule "manual/qc-doom-edition"]
+	path = manual/qc-doom-edition
+	url = git@github.com:n3rd4i/qc-doom-edition.git
+[submodule "manual/doom4-death-foretold"]
+	path = manual/doom4-death-foretold
+	url = git@github.com:n3rd4i/doom4-death-foretold.git
+[submodule "manual/gamesnostalgia.extension"]
+	path = manual/gamesnostalgia.extension
+	url = git@github.com:n3rd4i/gamesnostalgia.extension.git
+[submodule "manual/usbip"]
+	path = manual/usbip
+	url = git@github.com:n3rd4i/usbip.git

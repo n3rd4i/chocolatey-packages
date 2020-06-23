@@ -6,7 +6,7 @@
 	"tasks": [{
 			"label": "submodule init",
 			"type": "shell",
-			"command": "git submodule update --init automatic/"
+			"command": "git submodule update --remote --init automatic/"
 		},
 		{
 			"label": "update-all",

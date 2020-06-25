@@ -118,3 +118,7 @@
 	path = manual/usbip
 	url = git@github.com:n3rd4i/usbip.git
 	branch = master
+[submodule "automatic/nrfjprog"]
+	path = automatic/nrfjprog
+	url = git@github.com:n3rd4i/nrfjprog
+	branch = master

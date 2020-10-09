@@ -11,7 +11,7 @@
 		{
 			"label": "update-all",
 			"type": "shell",
-			"command": "$ENV:TEMP = 'T:\\Temp'; ./update_all.ps1",
+			"command": "$ENV:TEMP = 'T:\\Temp'; Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass; ./update_all.ps1",
 			"options": { "shell": { "executable": "powershell.exe" } },
 			"group": { "kind": "build", "isDefault": true },
 			"dependsOn": ["submodule init"]

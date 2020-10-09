@@ -71,7 +71,7 @@
 	url = git@github.com:n3rd4i/pasteintofile.git
 	branch = master
 [submodule "manual/imageusb"]
-	path = manual/imageusb
+	path = automatic/imageusb
 	url = git@github.com:n3rd4i/imageusb.git
 	branch = master
 [submodule "manual/resetwueng"]

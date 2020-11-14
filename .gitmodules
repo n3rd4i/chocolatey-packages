@@ -122,3 +122,33 @@
 	path = automatic/nrfjprog
 	url = git@github.com:n3rd4i/nrfjprog
 	branch = master
+[submodule "manual/games/doom/megawads/doom2-maps-goingdown"]
+	path = manual/games/doom/megawads/doom2-maps-goingdown
+	url = git@github.com:n3rd4i/doom2-maps-goingdown.git
+[submodule "manual/games/doom/megawads/doom2-maps-scythe2"]
+	path = manual/games/doom/megawads/doom2-maps-scythe2
+	url = git@github.com:n3rd4i/doom2-maps-scythe2.git
+[submodule "manual/games/doom/megawads/doom2-maps-epic2"]
+	path = manual/games/doom/megawads/doom2-maps-epic2
+	url = git@github.com:n3rd4i/doom2-maps-epic2.git
+[submodule "manual/games/doom/megawads/doom2-maps-nova3"]
+	path = manual/games/doom/megawads/doom2-maps-nova3
+	url = git@github.com:n3rd4i/doom2-maps-nova3.git
+[submodule "manual/games/doom/megawads/doom2-maps-d2reload"]
+	path = manual/games/doom/megawads/doom2-maps-d2reload
+	url = git@github.com:n3rd4i/doom2-maps-d2reload.git
+[submodule "manual/games/doom/megawads/doom2-maps-hellbound"]
+	path = manual/games/doom/megawads/doom2-maps-hellbound
+	url = git@github.com:n3rd4i/doom2-maps-hellbound.git
+[submodule "manual/games/doom/megawads/doom2-maps-scythe"]
+	path = manual/games/doom/megawads/doom2-maps-scythe
+	url = git@github.com:n3rd4i/doom2-maps-scythe.git
+[submodule "manual/games/doom/megawads/doom2-maps-btsx-e2"]
+	path = manual/games/doom/megawads/doom2-maps-btsx-e2
+	url = git@github.com:n3rd4i/doom2-maps-btsx-e2.git
+[submodule "manual/games/doom/megawads/doom2-maps-btsx-e1"]
+	path = manual/games/doom/megawads/doom2-maps-btsx-e1
+	url = git@github.com:n3rd4i/doom2-maps-btsx-e1.git
+[submodule "manual/games/doom/megawads/doom1-maps-dtwid"]
+	path = manual/games/doom/megawads/doom1-maps-dtwid
+	url = git@github.com:n3rd4i/doom1-maps-dtwid.git

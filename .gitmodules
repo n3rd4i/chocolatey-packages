@@ -63,7 +63,7 @@
 	url = git@github.com:n3rd4i/scrcpy.git
 	branch = master
 [submodule "manual/doom-sigil"]
-	path = manual/games/doom/doom-sigil
+	path = manual/games/doom/megawads/doom-sigil
 	url = git@github.com:n3rd4i/doom-sigil.git
 	branch = master
 [submodule "manual/pasteintofile"]
@@ -87,7 +87,7 @@
 	url = git@github.com:n3rd4i/moddb.extension.git
 	branch = master
 [submodule "manual/doom1-maps-sigil"]
-	path = manual/games/doom/doom1-maps-sigil
+	path = manual/games/doom/megawads/doom1-maps-sigil
 	url = git@github.com:n3rd4i/doom1-maps-sigil.git
 	branch = master
 [submodule "manual/teslacamviewer"]
@@ -99,15 +99,15 @@
 	url = git@github.com:n3rd4i/zephyr-gnuarmemb.git
 	branch = master
 [submodule "manual/d4t-addons-keysncorpses"]
-	path = manual/games/doom/d4t-addons-keysncorpses
+	path = manual/games/doom/addons/d4t-addons-keysncorpses
 	url = git@github.com:n3rd4i/d4t-addons-keysncorpses.git
 	branch = master
 [submodule "manual/qc-doom-edition"]
-	path = manual/games/doom/qc-doom-edition
+	path = manual/games/doom/mods/qc-doom-edition
 	url = git@github.com:n3rd4i/qc-doom-edition.git
 	branch = master
 [submodule "manual/doom4-death-foretold"]
-	path = manual/games/doom/doom4-death-foretold
+	path = manual/games/doom/mods/doom4-death-foretold
 	url = git@github.com:n3rd4i/doom4-death-foretold.git
 	branch = master
 [submodule "manual/gamesnostalgia.extension"]

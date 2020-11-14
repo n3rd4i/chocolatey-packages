@@ -152,3 +152,12 @@
 [submodule "manual/games/doom/megawads/doom1-maps-dtwid"]
 	path = manual/games/doom/megawads/doom1-maps-dtwid
 	url = git@github.com:n3rd4i/doom1-maps-dtwid.git
+[submodule "manual/games/doom/gzdoom"]
+	path = manual/games/doom/gzdoom
+	url = git@github.com:n3rd4i/gzdoom.git
+[submodule "manual/games/doom/mods/brutaldoom"]
+	path = manual/games/doom/mods/brutaldoom
+	url = git@github.com:n3rd4i/brutaldoom.git
+[submodule "manual/games/doom/doomseeker"]
+	path = manual/games/doom/doomseeker
+	url = git@github.com:n3rd4i/doomseeker.git

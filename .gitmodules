@@ -164,3 +164,6 @@
 [submodule "manual/games/doom/addons/d4t-addons-accurate-music"]
 	path = manual/games/doom/addons/d4t-addons-accurate-music
 	url = git@github.com:n3rd4i/d4t-addons-accurate-music.git
+[submodule "automatic/tasmotizer"]
+	path = automatic/tasmotizer
+	url = git@github.com:n3rd4i/tasmotizer.git

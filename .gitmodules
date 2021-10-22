@@ -5,7 +5,7 @@
 [submodule "automatic/eduke32"]
 	path = automatic/eduke32
 	url = git@github.com:n3rd4i/eduke32
-	branch = master
+	branch = main
 [submodule "automatic/doomseeker"]
 	path = automatic/doomseeker
 	url = git@github.com:n3rd4i/doomseeker

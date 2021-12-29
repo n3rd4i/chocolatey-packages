@@ -167,3 +167,6 @@
 [submodule "automatic/tasmotizer"]
 	path = automatic/tasmotizer
 	url = git@github.com:n3rd4i/tasmotizer.git
+[submodule "manual/toolchains/openocd"]
+	path = manual/toolchains/openocd
+	url = git@github.com:n3rd4i/openocd.git
